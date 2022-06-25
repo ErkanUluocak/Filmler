@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_ekle"
+        android:icon="@drawable/icon_ekle"
+        android:title="Film Ekle"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/item_ayarlar"
+        android:title="Ayarlar" />
+    <item
+        android:id="@+id/item_cikis"
+        android:title="Çıkış" />
+</menu>
